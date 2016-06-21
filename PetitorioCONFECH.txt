@@ -25,6 +25,9 @@ Condiciones de existencia y unicidad de Cauchy-Lipschitz-Picard
 
 Condiciones para el financiamiento estatal
 
+
+	Modificacion
+
     Democracia: triestamentalidad en la toma de decisiones, término de las juntas directivas, elección de autoridades unipersonales (rector/decano/jefe de departamento).
     Transparencia en el uso de recursos.
     Servicio a la comunidad: orientación regional, investigación y contenido de las mallas en orientación a la comunidad.
